@@ -21,3 +21,6 @@ This dataset is from 2016 to 2018 which means that the insights would not be of 
 
 ### Ethical Considerations
 The data is available on Kaggle and is provided by Olist and 3 other collaborators. Kaggle is an open-source data sharing platform and might not provide data reliability and authenticity. Also, there is no much clarity on how the data is collected. There could be potential collection biases. 
+
+### Disclaimer
+Data used for this project was downloaded from Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce. 
